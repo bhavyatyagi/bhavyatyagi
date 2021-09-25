@@ -1,6 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavya. Thanks for stopping by...
+## Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">](https://github.com/bhavyatyagi), I'm Bhavya. Thanks for stopping by...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)](https://github.com/bhavyatyagi)
 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/tyagibhavya/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
