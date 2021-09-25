@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhavya 👋
 
-- 📫 How to reach me: ...
+## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/tyagibhavya/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://medium.com/@bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a>
 <a href="https://www.instagram.com/bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
