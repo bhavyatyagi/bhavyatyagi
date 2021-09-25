@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Bhavya. 
-### - Thanks for stopping by...
+## Hi there 👋, I'm Bhavya. Thanks for stopping by...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)
 
