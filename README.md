@@ -1,7 +1,10 @@
-## Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">](https://github.com/bhavyatyagi), I'm Bhavya. Thanks for stopping by...
+# <h1 align='center'> Hi there [<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">](https://github.com/bhavyatyagi), I'm Bhavya Tyagi </h1>
+<h3  align='center'> pursuing CSE from <a href="https://thapar.edu"> Thapar Institute of Engineering & Technology, Patiala </a> </h3>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)](https://github.com/bhavyatyagi)
+<br>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)](https://github.com/bhavyatyagi) </img>
+ 
 ### 📫 How to reach me:
 <a href="https://www.linkedin.com/in/tyagibhavya/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://medium.com/@bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a>
