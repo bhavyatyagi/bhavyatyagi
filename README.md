@@ -15,7 +15,8 @@
 ### 💬 Misc: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You'll die and then it won't matter.
-                                                                                                                                                     
+   
+<p align="center"><img src="https://komarev.com/ghpvc/?username=bhavyatyagi"></p>
 <!--
 **bhavyatyagi/bhavyatyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
