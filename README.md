@@ -3,19 +3,25 @@
 
 <br>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark)](https://github.com/bhavyatyagi) </img>
- 
-### 📫 How to reach me:
+
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bhavyatyagi&show_icons=true&count_private=true&include_all_commits=true&theme=github_light"></p>
+
+<div align="center">
+<h3> 📫 How to reach me:</h3>
 <a href="https://www.linkedin.com/in/tyagibhavya/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
 <a href="https://medium.com/@bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png" width="50"></a>
 <a href="https://www.instagram.com/bhavyatyagi16/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="50"></a>
 <a href="https://twitter.com/bhavyatyagi16"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png" width="50"></a>
 <a href="https://www.facebook.com/bhavytyagi16"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="50"></a>
+</div>
 
-### 💬 Misc: 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You'll die and then it won't matter.
-   
+<div align="center">
+ <h3> 💬 Misc: </h3>
+ <li> 😄 Pronouns: He/Him </li>
+ <li> ⚡ Fun fact: You'll die and then it won't matter. </li>
+</div>
+ 
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=bhavyatyagi"></p>
 <!--
 **bhavyatyagi/bhavyatyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
